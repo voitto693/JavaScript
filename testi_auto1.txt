@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h2>Autoja</h2>
+
+<button onclick="autonNaytto()">Näytä auto 1</button>
+
+<p id="auto1"></p>
+
+<script>
+function autonNaytto() {
+  document.getElementById("auto1").innerHTML =
+</script>
+
+</body>
+</html>
+
